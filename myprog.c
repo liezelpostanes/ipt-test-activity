@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main
 {
-	printf("Hello Git!");
+	printf("Hello Cap!");
+        printf("Im Fil, lez go na dayun");
 	return 0;
 }
 
