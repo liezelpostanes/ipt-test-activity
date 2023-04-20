@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main
 {
-	printf("Hello Cap!");
-        printf("Im Fil, lez go na dayun");
+	printf("Hello zel!");
+        printf("Gelie Ann Here");
 	return 0;
 }
 
